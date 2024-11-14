@@ -1,0 +1,32 @@
+{
+  "stocks": [
+    {
+      "id": 1,
+      "product": "iphone",
+      "purchased": 47,
+      "sold": 18,
+      "balance": 29
+    },
+    {
+      "id": 2,
+      "product": "huwai",
+      "purchased": 10,
+      "sold": 4,
+      "balance": 6
+    },
+    {
+      "id": 2,
+      "product": "samsung",
+      "purchased": 10,
+      "sold": 4,
+      "balance": 6
+    },
+    {
+      "id": 2,
+      "product": "realme",
+      "purchased": 10,
+      "sold": 4,
+      "balance": 6
+    }
+  ]
+}
